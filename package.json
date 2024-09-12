@@ -1,0 +1,15 @@
+{
+  "name": "randata-gen",
+  "version": "1.0.0",
+  "description": "Simple library for generating data such as: phone numbers, email, user name and surname",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Exage/random-data-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Horkavchuk <horkavchuk.nik@gmail.com>",
+  "license": "ISC"
+}
